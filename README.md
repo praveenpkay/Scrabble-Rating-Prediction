@@ -8,6 +8,7 @@ In this project, based on Woogle.io datasets we are tasked with finding the rati
 The complete project report and video presentation are included in this repository. 
 
 Report: https://github.com/praveenpkay/Scrabble-Rating-Prediction/blob/main/Scrabble/Delieverables/Scrabble_Final_TechWriteUp.docx
-Presentation: https://github.com/praveenpkay/Scrabble-Rating-Prediction/blob/main/Scrabble/Delieverables/MSBA%206421%20-%20Scrabble%20Project.pptx
-Video: https://www.youtube.com/watch?v=zw5c425LxMs
 
+Presentation: https://github.com/praveenpkay/Scrabble-Rating-Prediction/blob/main/Scrabble/Delieverables/MSBA%206421%20-%20Scrabble%20Project.pptx
+
+Video: https://www.youtube.com/watch?v=zw5c425LxMs
